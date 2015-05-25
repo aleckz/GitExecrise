@@ -1,0 +1,2 @@
+grep is a more complex command, one that I don't believe I've fully grasped as of yet. However, what I do know is that grep filters out particular pieces of text, phrases, or ASCII characters from files that it searches. The best example I can give is the one where in the Unixoid Challenge we had to filter out all of the 'env' commands that started with T, and that was done by writing 'env | grep ^T | less'
+
