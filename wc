@@ -1,0 +1,1 @@
+wc is a command that gives you the word count of a particular file (or files). It can be used to discern how many lines are in a file if the -l is added.
